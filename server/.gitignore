@@ -1,0 +1,9 @@
+# Env
+.env
+
+# Build output
+/bin/
+*.exe
+
+# OS
+.DS_Store
